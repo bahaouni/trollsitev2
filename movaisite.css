@@ -1,0 +1,21 @@
+table {
+    display: table;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 20px;
+    border-color: grey;
+}
+
+element.style {
+    width: 3600px;
+    background-color: purple;
+}
+ body { background-image: url("84.gif"); }
+
+ .container{
+    size: 12px;
+    font-size: xx-large;
+    font-weight: 500;
+    color: bisque;
+    background-color: blueviolet;
+}

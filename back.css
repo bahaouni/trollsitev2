@@ -1,0 +1,22 @@
+body{
+    background-image: url("file:///C:/Users/msi/Desktop/movai%20site/gif.gif");
+}
+.state{
+    margin-left: 38%;
+    margin-top: 10%;
+}
+.state .error {
+    font-size: 200px;
+}
+.state .error img {
+    width: 160px;
+    height: 160px;
+}
+
+a:link{
+    font-size: 200%;
+    text-decoration: none;
+    
+    background: yellow;
+    margin-left: 20%;
+}

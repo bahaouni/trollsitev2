@@ -1,0 +1,21 @@
+body{
+    height: 500%;
+    width: 700%;
+    background-image: url("file:///C:/Users/msi/Desktop/movai%20site/evil.gif");
+}
+
+pre{
+    margin-top: 300px;
+    place-items: center;
+    color: rgb(0, 255, 55);
+    font-size: 300px;
+    
+}
+.para{
+    width: 800;
+}
+.pour{
+    font-size: 50px;
+    margin-top: 20px;
+    margin-left: 350px;
+}

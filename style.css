@@ -1,0 +1,50 @@
+.custom-form{
+    border-radius: 16px !important;
+    width: 400px;
+    height: auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:   #d7a1bd7c;
+    box-shadow: rgba(255, 45, 3, 0.2) 0px 8px 24px;
+}
+.custom-form h3{
+    text-align: center;
+}
+.custom-form span{
+    font-size: 16p0x;
+    line-height: 24px;
+    color: #fb4d08;
+    margin-bottom: 6px ;
+    background-image: url("file:///C:/Users/msi/Desktop/movai%20site/123.jpg");
+    
+}
+
+.form-group{
+    margin-top: 20px;
+}
+.btn{
+    margin: auto;
+    margin-top: 20px;
+    width: 100px;
+}
+
+.no{
+margin-left:230px ;
+}
+
+html{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ef1212;
+    background-image: url("file:///C:/Users/msi/Desktop/movai%20site/1234.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+      }
+body{
+    background-color: transparent ;
+    
+}
