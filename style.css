@@ -17,7 +17,7 @@
     line-height: 24px;
     color: #fb4d08;
     margin-bottom: 6px ;
-    background-image: url("/123.jpg");
+    background-image: url("https://img.passeportsante.net/1200x675/2021-05-06/i106626-signes-bonne-sante-du-chat.webp");
     
 }
 
@@ -40,7 +40,7 @@ html{
     justify-content: center;
     align-items: center;
     background-color: #ef1212;
-    background-image: url("/1234.jpg");
+    background-image: url("https://img.passeportsante.net/1200x675/2021-05-06/i106626-signes-bonne-sante-du-chat.webp");
     background-repeat: no-repeat;
     background-size: contain;
       }
